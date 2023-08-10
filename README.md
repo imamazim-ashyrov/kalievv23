@@ -8,7 +8,7 @@
   <a href="https://wa.me/message/XKQCUMUPJWQGI1">
     <img src="https://img.shields.io/badge/Whatsapp-rgb(35, 134, 54)?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
   </a>
-  <a href="your-telegram-URL">
+  <a href="https://t.me/kalievv_23">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
