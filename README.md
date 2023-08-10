@@ -5,7 +5,7 @@
   <a href="https://instagram.com/kalievv.23?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="your-whatsapp-URL">
+  <a href="https://wa.me/message/XKQCUMUPJWQGI1">
     <img src="https://img.shields.io/badge/Whatsapp-rgb(35, 134, 54)?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
   </a>
   <a href="your-telegram-URL">
