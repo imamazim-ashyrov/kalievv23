@@ -23,11 +23,11 @@
 <hr/>
 
 ### :man_technologist: About Me :
-🔍 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kyrgyzstan.<br>
+🔍 Имамазим Ашыров - фронтенд разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Кыргызстана.<br>
 📈 Ориентирован на результат и оптимальные решения.<br>
 📚 Постоянное обновление знаний в соответствии с актуальными тенденциями рынка.<br>
 📧 Для сотрудничества и консультаций: kaliev2004kg@gmail.com.<br>
-📍 Город: <a href="https://maps.app.goo.gl/867tatZ4iquoh5Sf6">Kyrgyzstan_Osh</a>.<br>
+📍 Город: <a href="https://maps.app.goo.gl/867tatZ4iquoh5Sf6">Osh Kyrgyzstan</a>.<br>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
