@@ -2,13 +2,13 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
-  <a href="https://instagram.com/kalievv.23?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D">
+  <a href="https://instagram.com/imamazim_ashyrov?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://wa.me/message/XKQCUMUPJWQGI1">
     <img src="https://img.shields.io/badge/Whatsapp-rgb(35, 134, 54)?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
   </a>
-  <a href="https://t.me/kalievv_23">
+  <a href="https://t.me/imamazim_ashyrov">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
