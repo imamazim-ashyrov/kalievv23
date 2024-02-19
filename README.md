@@ -26,8 +26,8 @@
 🔍 Имамазим Ашыров - Фронтенд разработчик. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
 📈 Ориентирован на результат и оптимальные решения.<br>
 📚 Постоянное обновление знаний в соответствии с актуальными тенденциями рынка.<br>
-📞 Для сотрудничества и консультаций: <a href="https://wa.me/message/XKQCUMUPJWQGI1">+996220 265 910</a>.<br>
-📍 Город: <a href="https://maps.app.goo.gl/867tatZ4iquoh5Sf6">Osh Kyrgyzstan</a>.<br>
+📞 Для сотрудничества и консультаций: <a href="https://wa.me/message/XKQCUMUPJWQGI1">+996222 200 777</a>.<br>
+📍 Город: <a href="https://maps.app.goo.gl/867tatZ4iquoh5Sf6">Kyrgyzstan</a>.<br>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
